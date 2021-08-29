@@ -13,17 +13,9 @@
 
 -------
 
-#### Possible improvement: 
-* Add a second window to choose the color.
-* Add SDL_ttf library.
-* Add more color palettes.
-* Choose the size of the window 
-
---------
-
 #### Installation :
 
-You must have the following libraries installed :
+**You must have the following libraries installed :**
 * [SDL2](https://www.libsdl.org/download-2.0.php).
 * [SDL_image 2.0](https://www.libsdl.org/projects/SDL_image/)(for the icon).
 
@@ -43,5 +35,13 @@ gcc src/*.c -o bin/PixelArtMaker -I include -L lib -lmingw32 -lSDL2main -lSDL2 -
 <img width="250" src="https://github.com/Louiss-exe/PixelArtMaker/blob/main/screenshots/img2.png">
 
 -----
+
+#### Possible improvement: 
+* Add a second window to choose the color.
+* Add SDL_ttf library.
+* Add more color palettes.
+* Choose the size of the window 
+
+--------
 
  ![](https://github.com/Louiss-exe/PixelArtMaker/blob/main/src/icon.png)
